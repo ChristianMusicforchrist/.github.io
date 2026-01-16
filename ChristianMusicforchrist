@@ -63,3 +63,16 @@
 
 </body>
 </html>
+<section style="text-align:center; margin-top:40px;">
+  <h2>🎵 Latest Worship Video</h2>
+
+  <a href="https://www.youtube.com/watch?v=HbQYc4lRnm8" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/HbQYc4lRnm8/maxresdefault.jpg" 
+      alt="Christian Worship Music"
+      style="width:90%; max-width:600px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.3);"
+    />
+  </a>
+
+  <p>Click the image to watch on YouTube 🙏</p>
+</section>
