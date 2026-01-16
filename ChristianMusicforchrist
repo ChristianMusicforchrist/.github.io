@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Christian Music for Christ</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Christian Music for Christ</h1>
+    <p>Worship • Praise • Devotional Songs</p>
+  </header>
+
+  <!-- Navigation -->
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#songs">Songs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <h2>Jesus Is Above All</h2>
+    <p>Creating music to glorify Christ and touch lives</p>
+    <a href="#" class="btn">Visit YouTube Channel</a>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <h2>About This Ministry</h2>
+    <p>
+      Christian Music for Christ is a worship ministry dedicated to spreading
+      the Gospel through music. Our songs are focused on Jesus Christ,
+      His love, sacrifice, and resurrection.
+    </p>
+  </section>
+
+  <!-- Songs -->
+  <section id="songs" class="dark">
+    <h2>Our Songs</h2>
+    <ul>
+      <li>Podiyil Ninnu Nee Enne Roopappeduththi</li>
+      <li>Sab Shaktiyon Se Upar</li>
+      <li>Yeshuve Nithyam Ninte Sthuthi</li>
+    </ul>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: christianmusicforchrist@gmail.com</p>
+    <p>YouTube: Christian Music for Christ</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 Christian Music for Christ | All Glory to Jesus</p>
+  </footer>
+
+</body>
+</html>
